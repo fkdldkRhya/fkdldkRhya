@@ -16,5 +16,5 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=MySQL&logoColor=white"/>
 </div>
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkdldkRhya&show_icons=true&theme=radical)
+  <iframe src="https://github-readme-stats.vercel.app/api?username=fkdldkRhya&show_icons=true&theme=radical"/>
 </div>
