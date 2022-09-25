@@ -1,4 +1,5 @@
 <h3 align="center"> 👋 Hi there 👋 </h3>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white"/>
 
 <p align="center">
   I'm <strong>CHOI SI-HUN</strong>, a growing developer. 🌱 <br>
