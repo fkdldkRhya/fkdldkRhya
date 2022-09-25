@@ -1,5 +1,8 @@
-<h3 align="center"> 👋 Hi there 👋 </h3>
-<img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
+<div align="center">
+  <h3> 👋 Hi there 👋 </h3>
+  <br>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
+</div>
 
 <p align="center">
   I'm <strong>CHOI SI-HUN</strong>, a growing developer. 🌱 <br>
