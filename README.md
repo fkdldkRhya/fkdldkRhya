@@ -18,6 +18,6 @@
     
    <h3>🧷<strong>My github stats</strong>🧷</h3>
    <img src="https://github-readme-stats.vercel.app/api?username=fkdldkRhya&show_icons=true"/>
-   <h3>🧷<strong>My dev most lang</strong>🧷</h3>
+   <h3>🧷<strong>My dev top lang</strong>🧷</h3>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fkdldkRhya&show_icons=true"/>
 </div>
