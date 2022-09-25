@@ -21,6 +21,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=MySQL&logoColor=white"/>
   
   <h3>🧷<strong>My github stats</strong>🧷</h3>
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fkdldkRhya&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkdldkRhya)](https://github.com/anuraghazra/github-readme-stats)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fkdldkRhya&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkdldkRhya&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
