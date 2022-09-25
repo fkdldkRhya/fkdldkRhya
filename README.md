@@ -1,7 +1,7 @@
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
-  I'm Jihye Shin, a growing developer. 🌱 <br>
-  I want to be a person who gives you new wisdom. ✨
+  I'm CHOI SI-HUN, a growing developer. 🌱 <br>
+  오류를 넘으면 또 오류가 있다. (무한 버그) 💢
 </p>
 
 <div align="center">
