@@ -1,6 +1,6 @@
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
-  I'm CHOI SI-HUN, a growing developer. 🌱 <br>
+  I'm <strong>CHOI SI-HUN</strong>, a growing developer. 🌱 <br>
   <strong>오류를 넘으면 또 오류가 있다. (무한 버그)</strong> 💥
 </p>
 
