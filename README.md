@@ -4,7 +4,7 @@
   <a href="mailto:sihun.choi@email.rhya-network.kro.kr"><img src="https://img.shields.io/badge/MY EMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"link=mailto:sihun.choi@email.rhya-network.kro.kr"/></a>
   <p>
   I'm <strong>CHOI SI-HUN</strong>, a growing developer. 🌱 <br>
-  <strong>오류를 넘으면 또 오류가 있다. (무한 버그)</strong> 💥
+  <strong>- 오류를 넘으면 또 오류가 있다. (무한 버그)</strong> 💥
   </p>
   <h3>🛠<strong>Technology Stack🛠</strong></h3>
   </br>
