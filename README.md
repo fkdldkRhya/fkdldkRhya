@@ -1,7 +1,7 @@
 <div align="center">
   <h3> 👋 Hi there 👋 </h3>
   <br>
-  <img src="https://img.shields.io/badge/sihun.choi@email.rhya-network.kro.kr-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  <a href="mailto:sihun.choi@email.rhya-network.kro.kr"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"link=mailto:sihun.choi@email.rhya-network.kro.kr"/></a>
 </div>
 
 <p align="center">
