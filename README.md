@@ -1,4 +1,5 @@
-<div align="center">
+<div align="left">
+  <img src="./header_background_image.jpg"/>
   <h3> 👋 Hi there 👋 </h3>
   <br>
   <a href="mailto:sihun.choi@email.rhya-network.kro.kr"><img src="https://img.shields.io/badge/MY EMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"link=mailto:sihun.choi@email.rhya-network.kro.kr"/></a>
@@ -16,6 +17,9 @@
   <img src="https://img.shields.io/badge/Mysql-F7DF1E?style=for-the-badge&logo=MySQL&logoColor=black"/>
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
     
-   <h3>🧷<strong>My github stats</strong>🧷</h3>
-   <img src="https://github-readme-stats.vercel.app/api?username=fkdldkRhya&show_icons=true"/>
+  <h3>🧷<strong>My github stats</strong>🧷</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fkdldkRhya&layout=compact&theme=tokyonight" height="150vh" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fkdldkRhya&theme=tokyonight" height="150vh"/>
+  </br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fkdldkRhya&theme=nord_dark" width="660vw" />
 </div>
