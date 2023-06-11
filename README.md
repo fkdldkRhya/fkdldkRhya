@@ -34,10 +34,5 @@
   <img src="https://img.shields.io/badge/Mariadb-003545?style=for-the-badge&logo=Mariadb">
     
   <h3>🧷<strong>My github stats</strong>🧷</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fkdldkRhya&layout=compact&theme=tokyonight" height="150vh" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fkdldkRhya&theme=tokyonight" height="150vh"/>
-  
-  </br>
-   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fkdldkRhya&theme=nord_dark" width="660vw" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
