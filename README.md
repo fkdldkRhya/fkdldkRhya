@@ -13,7 +13,7 @@
 - 2024.02 ~ 2025.02
   - (주) 싱귤래리티 창업 BE Developer
 - 2024.02 ~ 2024.09
-  - <a href="http://ksict.com/">(주) 신성아이씨티 BE Developer</a>
+  - <a href="http://ksict.com/">(주) 신성아이씨티</a> · BE Developer
 
 ### 🏆 Awards
 [2023]
