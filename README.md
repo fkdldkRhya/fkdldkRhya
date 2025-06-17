@@ -2,9 +2,12 @@
   <img src="./header_background_image.jpg"/>
   
 ### 👋 Hi there 👋
-  <br>
-  I'm <strong>CHOI SI-HUN</strong>, a growing developer. 🌱 <br>
-  <strong>- 오류를 넘으면 또 오류가 있다. (무한 버그)</strong> 💥
+  
+```
+function main() {
+  console.log("I'm CHOI SI-HUN  a growing developer. 🌱");
+}
+```
 
 ### 💻 Work
 - 2024.10 ~ **Present** 
