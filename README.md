@@ -10,8 +10,8 @@ function main() {
 ```
 
 ### 💻 Work
-- 2024.10 ~ **Present** 
-  - <a href="http://www.drvalue.co.kr/">(주) 디알밸류</a> · BE Developer
+- **Present** 
+  - <a href="http://www.drvalue.co.kr/">(주) 디알밸류</a> · BE Developer 2024.10 ~ **Present**
   - 한양대학교 ERICA 스마트융합공학부 · 2023.03 ~ **Present**
 - 2024.02 ~ 2025.02
   - (주) 싱귤래리티 창업 · BE Developer
