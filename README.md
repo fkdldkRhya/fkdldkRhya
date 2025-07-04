@@ -12,9 +12,11 @@ function main() {
 ### 💻 Work
 - **Present** 
   - <a href="http://www.drvalue.co.kr/">(주) 디알밸류</a> · BE Developer 2024.10 ~ **Present**
+    - 주문 제작형 PCB MES(생산 관리 시스템) · 백엔드 초기 개발 및 유지보수
   - 한양대학교 ERICA 스마트융합공학부 · 2023.03 ~ **Present**
 - 2024.02 ~ 2025.02
   - (주) 싱귤래리티 창업 · BE Developer
+    - Chatnote (대학생을 위한 AI 공부 필기앱) · 백엔드 초기 개발
 - 2024.02 ~ 2024.09
   - <a href="http://ksict.com/">(주) 신성아이씨티</a> · BE Developer
     - [MCC 원모바일](https://myonemobile.com/)(휴대폰 쇼핑몰 및 요금제 가입 서비스) · 백엔드 초기 개발 및 유지보수
