@@ -3,9 +3,9 @@
   
 ### 👋 Hi there 👋
   
-```
+```javascript
 function main() {
-  console.log("I'm CHOI SI-HUN  a growing developer. 🌱");
+  console.log("I'm CHOI SI-HUN a growing developer. 🌱");
 }
 ```
 
@@ -15,7 +15,7 @@ function main() {
 - 2023.03 ~ 2026.02
   - 한양대학교 ERICA 스마트융합공학부 · 학부 졸업
 - 2024.02 ~ 2025.10
-  - <a href="http://www.drvalue.co.kr/">(주) 디알밸류</a> · BE Developer
+  - <a href="http://www.drvalue.co.kr/">(주) 디알밸류</a> · BE Developer / CTO
     - 주문 제작형 PCB MES(생산 관리 시스템) · 프로젝트 PL
 - 2024.02 ~ 2025.02
   - (주) 싱귤래리티 창업 · BE Developer
