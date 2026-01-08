@@ -18,6 +18,7 @@ function main() {
 - 2024.02 ~ 2025.10
   - <a href="http://www.drvalue.co.kr/">(주) 디알밸류</a> · BE Developer
     - 주문 제작형 PCB MES(생산 관리 시스템) · 프로젝트 PL
+    - 엠슈머 재조 매칭 플랫폼 · 백엔드 초기 개발
 - 2024.02 ~ 2025.02
   - (주) 싱귤래리티 창업 · BE Developer
     - Chatnote (대학생을 위한 AI 공부 필기앱) · 백엔드 초기 개발
