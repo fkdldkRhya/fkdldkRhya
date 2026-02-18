@@ -14,7 +14,7 @@
 <details>
 <summary><b>💻 Experience</b> (click)</summary>
 
-- **(주) 디알밸류 · CTO** (Present)
+- **(주) 디알밸류 · BE Developer** (Present)
 - **(주) 디알밸류 · BE Developer** (2024.02 ~ 2025.10)
   - 주문 제작형 PCB MES · 프로젝트 PL
   - 엠슈머 재조 매칭 플랫폼 · 백엔드 초기 개발
