@@ -2,7 +2,7 @@
   <img src="./header_background_image.jpg" alt="header" />
 
 ## 👋 CHOI SI-HUN
-**CTO @ (주)디알밸류 · Backend Engineer · M.S. Student (Smart Construction Engineering, Hanyang Univ.)**  
+**(주)디알밸류 · Backend Engineer · M.S. Student (Smart Construction Engineering, Hanyang Univ.)**  
 - 📧 Email: sh.choi@drvalue.co.kr
 
 **Highlights**
